@@ -1,0 +1,13 @@
+#box_1 {
+  width: 200px;
+  height: 200px;
+  background-color: #ee3e64;
+}
+
+#box_2 {
+  position: absolute;
+  left: 100px;
+  width: 200px;
+  height: 200px;
+  background-color: #44accf;
+}
