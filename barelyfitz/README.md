@@ -1,0 +1,1 @@
+This project was made following the tutorial http://www.barelyfitz.com/screencast/html-training/css/positioning/
