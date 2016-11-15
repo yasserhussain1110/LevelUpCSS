@@ -1,0 +1,7 @@
+#example3 > p {
+  color: blue;
+}
+
+div > div > p {
+  color: red;
+}

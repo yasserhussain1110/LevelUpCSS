@@ -1,0 +1,6 @@
+
+/* selects grandchildren p elements of #root,
+but not children */
+#root * p {
+  color: red;
+}

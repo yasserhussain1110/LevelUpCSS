@@ -1,0 +1,20 @@
+/* ancestor descendant relationship here */
+#example3 p {
+    color: red
+}
+
+#example3 > p {
+    color: blue
+}
+
+/*
+
+#example3 > p {
+    color: blue
+}
+
+#example3 p {
+    color: red
+}
+
+*/

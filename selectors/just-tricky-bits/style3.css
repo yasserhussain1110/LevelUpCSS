@@ -1,0 +1,4 @@
+/* parent child relationship here */
+div > a {
+  color: yellow;
+}
