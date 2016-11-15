@@ -1,0 +1,11 @@
+img {
+  float: right;
+  margin: 20px;
+}
+
+p {
+  border: 1px solid black;
+  float: left;
+  width: 850px;
+  margin: 20px;
+}

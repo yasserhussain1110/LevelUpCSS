@@ -1,0 +1,1 @@
+This project was made following the tutorial http://designshack.net/articles/css/everything-you-never-knew-about-css-floats/

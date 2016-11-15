@@ -1,0 +1,1 @@
+This project was made following the tutorial https://www.smashingmagazine.com/2009/10/the-mystery-of-css-float-property/
